@@ -1,5 +1,5 @@
 # AppPalindrome
-Creating an App which is specified for checking if the words and the reversed ones are the same or not.
+Created an App which is specified for checking whether the words and the reversed ones are the same or not.
 
 
 
